@@ -1,5 +1,6 @@
 # IoT-Mini Project 8
-ESP8266 dihubungkan dengan Firebase, kemudian akan menampilkan value dari komponen tersebut ke dalam aplikasi android
+
+###### ESP8266 dihubungkan dengan Firebase, kemudian akan menampilkan value dari komponen tersebut ke dalam aplikasi android
 --------------------------------------------------
 
 ### Hardware yang digunakan: 
