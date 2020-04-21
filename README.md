@@ -4,4 +4,4 @@ Hardware yang digunakan: NodeMCU ESP8266, 1 LED, Sound Sensor, Water Level Senso
 
 Software yang digunakan: Arduino IDE, Android Studio
 
-Link YouTube: https://youtu.be/SbgQbV7IxRo
+Link Tutorial YouTube: https://youtu.be/SbgQbV7IxRo
