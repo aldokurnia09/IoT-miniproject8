@@ -12,5 +12,6 @@
 ### Software yang digunakan: 
 - Arduino IDE
 - Android Studio
+--------------------------------------------------
 
 Link Tutorial YouTube: https://youtu.be/SbgQbV7IxRo
