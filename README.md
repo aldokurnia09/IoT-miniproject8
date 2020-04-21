@@ -1,6 +1,7 @@
 # IoT-Mini Project 8
 
-###### ESP8266 dihubungkan dengan Firebase untuk mengatur Sound Sensor dan Water Level Sensor, kemudian akan menampilkan value dari komponen tersebut ke dalam aplikasi android
+One Paragraph of project description goes hereESP8266 dihubungkan dengan Firebase untuk mengatur Sound Sensor dan Water Level Sensor, kemudian akan menampilkan value dari komponen tersebut ke dalam aplikasi android
+
 --------------------------------------------------
 
 ### Hardware yang digunakan: 
