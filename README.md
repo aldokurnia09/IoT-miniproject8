@@ -18,6 +18,6 @@ ESP8266 dihubungkan dengan Firebase untuk mengatur Sound Sensor dan Water Level 
 
 --------------------------------------------------
 
-Link Tutorial YouTube: https://youtu.be/SbgQbV7IxRo
+Link Tutorial YouTube: [Click Here](https://youtu.be/SbgQbV7IxRo)
 
 --------------------------------------------------
